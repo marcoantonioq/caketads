@@ -1,7 +1,7 @@
 <?php $cakeDescription = 'TADS Turma 2011'; ?>
 
 <!DOCTYPE html>
-	<html lang=''>
+	<html lang='pt-br'>
 	<head>
 			<meta http-equiv="X-UA-Compatible" content="IE=edge">
 			<meta charset="utf-8">
